@@ -3,7 +3,7 @@
 
 # Demo Screenshots
 
-![desktop](Link)
+![desktop](https://laxmikant2002.github.io/Groom-Buddy/).
 
 
 # Features
